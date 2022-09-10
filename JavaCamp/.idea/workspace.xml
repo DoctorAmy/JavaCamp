@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88ed17dd-63d3-4552-83a0-06a13ff688eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AssignFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculationAndAssign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AutoConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForceConvert.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CalculationAndAssign">
+  <component name="RunManager" selected="Application.ForceConvert">
     <configuration name="AssignFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AssignFirst" />
       <module name="JavaCamp" />
@@ -47,8 +47,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BooleanAndChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BooleanAndChar" />
+    <configuration name="AutoConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AutoConvert" />
       <module name="JavaCamp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FloatCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FloatCalculation" />
+    <configuration name="ForceConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForceConvert" />
       <module name="JavaCamp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForceConvert" />
+        <item itemvalue="Application.AutoConvert" />
         <item itemvalue="Application.CalculationAndAssign" />
         <item itemvalue="Application.AssignFirst" />
         <item itemvalue="Application.PrimaryTypes" />
-        <item itemvalue="Application.BooleanAndChar" />
-        <item itemvalue="Application.FloatCalculation" />
       </list>
     </recent_temporary>
   </component>
