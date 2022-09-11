@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88ed17dd-63d3-4552-83a0-06a13ff688eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CalcDivFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharsetAndEncoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/print26chars.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,14 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CalcDivFor">
-    <configuration name="AutoConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AutoConvert" />
-      <module name="JavaCamp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.print26chars">
     <configuration name="CalcDivFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CalcDivFor" />
       <module name="JavaCamp" />
@@ -53,15 +48,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculationAndAssign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculationAndAssign" />
-      <module name="JavaCamp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForceConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForceConvert" />
+    <configuration name="CharsetAndEncoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharsetAndEncoding" />
       <module name="JavaCamp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,13 +62,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringConcat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringConcat" />
+      <module name="JavaCamp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="print26chars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="print26chars" />
+      <module name="JavaCamp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.print26chars" />
+        <item itemvalue="Application.StringConcat" />
+        <item itemvalue="Application.CharsetAndEncoding" />
         <item itemvalue="Application.CalcDivFor" />
         <item itemvalue="Application.PrintChars" />
-        <item itemvalue="Application.ForceConvert" />
-        <item itemvalue="Application.AutoConvert" />
-        <item itemvalue="Application.CalculationAndAssign" />
       </list>
     </recent_temporary>
   </component>
