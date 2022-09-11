@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88ed17dd-63d3-4552-83a0-06a13ff688eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CharsetAndEncoding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringConcat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/print26chars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiTable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,14 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.print26chars">
-    <configuration name="CalcDivFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalcDivFor" />
-      <module name="JavaCamp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MultiTable">
     <configuration name="CharsetAndEncoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CharsetAndEncoding" />
       <module name="JavaCamp" />
@@ -55,8 +47,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintChars" />
+    <configuration name="CodeBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeBlock" />
+      <module name="JavaCamp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiTable" />
       <module name="JavaCamp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiTable" />
+        <item itemvalue="Application.CodeBlock" />
         <item itemvalue="Application.print26chars" />
         <item itemvalue="Application.StringConcat" />
         <item itemvalue="Application.CharsetAndEncoding" />
-        <item itemvalue="Application.CalcDivFor" />
-        <item itemvalue="Application.PrintChars" />
       </list>
     </recent_temporary>
   </component>
