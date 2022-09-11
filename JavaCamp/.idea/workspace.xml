@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88ed17dd-63d3-4552-83a0-06a13ff688eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PrintChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalcDivFor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForceConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForceConvert.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,16 +38,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrintChars">
-    <configuration name="AssignFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignFirst" />
+  <component name="RunManager" selected="Application.CalcDivFor">
+    <configuration name="AutoConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AutoConvert" />
       <module name="JavaCamp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AutoConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AutoConvert" />
+    <configuration name="CalcDivFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalcDivFor" />
       <module name="JavaCamp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalcDivFor" />
         <item itemvalue="Application.PrintChars" />
         <item itemvalue="Application.ForceConvert" />
         <item itemvalue="Application.AutoConvert" />
         <item itemvalue="Application.CalculationAndAssign" />
-        <item itemvalue="Application.AssignFirst" />
       </list>
     </recent_temporary>
   </component>
