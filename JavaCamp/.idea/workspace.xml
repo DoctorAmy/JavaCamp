@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88ed17dd-63d3-4552-83a0-06a13ff688eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UseVarible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MutilDimensionArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.UseVarible">
+  <component name="RunManager" selected="Application.MutilDimensionArray">
     <configuration name="CodeBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeBlock" />
       <module name="JavaCamp" />
@@ -63,6 +63,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MutilDimensionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MutilDimensionArray" />
+      <module name="JavaCamp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UseVarible" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UseVarible" />
       <module name="JavaCamp" />
@@ -70,20 +77,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="print26chars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="print26chars" />
-      <module name="JavaCamp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MutilDimensionArray" />
         <item itemvalue="Application.UseVarible" />
         <item itemvalue="Application.CreateArray" />
         <item itemvalue="Application.MultiTable" />
         <item itemvalue="Application.CodeBlock" />
-        <item itemvalue="Application.print26chars" />
       </list>
     </recent_temporary>
   </component>
