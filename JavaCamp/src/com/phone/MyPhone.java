@@ -33,6 +33,14 @@ public class MyPhone {
         m_attery.totoal = "100度";
 
         System.out.println(m_screen);
+
+        // 黄色小箭头为有main函数的方法
+        // 断点的分类 有效(红圈小对钩)/无效(白圈砍一刀)/条件断点(红圈小对钩加问号)
+        // 断点模式开启 小虫子按钮
+        // 断点常用操作 Resume 跳转到下一个断点 快捷键F9
+        // 断点常用操作 Step Over 跳转到下一行断点(逐行) 快捷键F8
+        // 条件断点,在断点上右击,输入满足的条件,待条件满足时自动逮住bug
+        // Evaluate Expression 评估表达式,可以计算断点下的值运算
     }
 
 }

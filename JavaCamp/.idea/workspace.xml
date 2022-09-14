@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88ed17dd-63d3-4552-83a0-06a13ff688eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/phone/MyCpu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/phone/MyPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/phone/battery/MyBattery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/phone/screen/MyBigPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/phone/screen/MyScreen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/phone/MyPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/phone/MyPhone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,5 +114,47 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/phone/MyPhone.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/phone/MyPhone.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/phone/MyPhone.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/phone/MyPhone.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/phone/MyPhone.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="m_attery.isLiMetiral = true" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/com/phone/MyPhone.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="m_screen.maker" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
