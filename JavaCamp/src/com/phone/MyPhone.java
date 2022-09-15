@@ -27,6 +27,11 @@ public class MyPhone {
         m_screen.maker = "京东方";
         m_screen.isHighScreen = true;
 
+        // 调用对象的方法
+        // 点操作符调用
+        // 方法调用要有小括号,即便没有入参
+        m_screen.describe();
+
         MyBattery m_attery = new MyBattery();
         m_attery.maker = "比亚迪";
         m_attery.isLiMetiral = true;
