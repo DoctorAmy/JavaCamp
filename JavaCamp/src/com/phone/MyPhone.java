@@ -48,4 +48,28 @@ public class MyPhone {
         // Evaluate Expression 评估表达式,可以计算断点下的值运算
     }
 
+
+    // 单行注释
+    /*
+       abc
+       多行注释
+     */
+    /** javadoc
+     *
+     */
+    
+    /**
+     * 获取价格
+     * @param count 个数
+     * @return 价格
+     */
+    public int getPhonePrice(int count) {
+        if (count > 0 && count <10) {
+            // 递归调用,左侧有音乐图标
+            count ++;
+            this.getPhonePrice(count);
+        }
+        return count;
+    }
+
 }
